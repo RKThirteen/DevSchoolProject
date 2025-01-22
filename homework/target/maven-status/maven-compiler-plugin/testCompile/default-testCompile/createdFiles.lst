@@ -1,0 +1,12 @@
+com\ing\hubs\project\service\CourseServiceTest.class
+com\ing\hubs\project\service\GenerationServiceTest.class
+com\ing\hubs\project\service\JwtServiceTest.class
+com\ing\hubs\project\service\UserServiceTest.class
+com\ing\hubs\project\service\TeacherServiceTest.class
+com\ing\hubs\project\service\AuthServiceTest.class
+com\ing\hubs\project\service\GradeServiceTest.class
+com\ing\hubs\project\service\RequestServiceTest.class
+com\ing\hubs\project\service\StudentServiceTest.class
+com\ing\hubs\project\service\FeedbackServiceTest.class
+com\ing\hubs\project\service\RequestAdminServiceTest.class
+com\ing\hubs\project\service\ScheduleServiceTest.class
