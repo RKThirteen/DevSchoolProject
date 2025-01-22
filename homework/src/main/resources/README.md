@@ -1,9 +1,6 @@
-# Final Project
+# Final Project - Modified
 
-Beforehand you should create a branch using the team name and the homework module should be used.
-
-We thought that it would be nice to put together all the information that you have gathered since DevSchool started.  
-Your target is to build an application from scratch which will contain backend implementation. The idea is to build a course management platform, which should have the following features:
+Build an application from scratch which will contain backend implementation. The idea is to build a course management platform, which should have the following features:
 
 The student should:
 - Have the possibility to login – Use Spring Security and the password should not be saved in plaintext
@@ -16,6 +13,7 @@ The user should:
 - Have the possibility to login – Use Spring Security and the password should not be saved in plaintext
 - Be able to create multiple courses: establish the schedule
 
+Example of course creation Request: 
 ```json
 {
 	"name": "OOP",
@@ -48,13 +46,4 @@ The user should:
 - use postman collection request chaining feature: pass a response parameter to the next request automatically instead of doing it manually
 - test the business logic (the services)
 
-You have to think of a way to design the database and apis. Feel free to create/add any validation you like in backend. You should prepare also a postman collection which will contain all your created endpoints.
 
-
-Echipe:
-1. Larisa Tirziu - Sebastian Ion
-2. Stefana Nistor - Dragos Sofia
-3. Iulia Moisa - Stefan Sandor
-4. Ruxandra Iliescu - Razvan Velciu
-5. Catalin Balea - Ionut Hodoroaga
-6. Eduard Barbu - Iulian Neacsu
